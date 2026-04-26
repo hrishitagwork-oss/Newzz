@@ -97,8 +97,8 @@ The application uses a **frontend (HTML, CSS, JavaScript)** and a **backend (Nod
 ### 🔹 1. Clone Repository
 
 ```bash
-git clone --->https://github.com/hrishitagwork-oss/Newzz
-cd news-aggregator ----> https://news-h.netlify.app/
+git clone ---> https://github.com/hrishitagwork-oss/Newzz
+cd news-aggregator ---->  https://news-h.netlify.app/
 ```
 
 ---
